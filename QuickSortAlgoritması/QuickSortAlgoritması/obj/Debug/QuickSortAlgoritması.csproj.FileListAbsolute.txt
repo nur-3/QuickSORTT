@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\QuickSortAlgoritması\QuickSortAlgoritması\bin\Debug\QuickSortAlgoritması.exe.config
+c:\users\user\documents\visual studio 2012\Projects\QuickSortAlgoritması\QuickSortAlgoritması\obj\Debug\QuickSortAlgoritması.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\QuickSortAlgoritması\QuickSortAlgoritması\bin\Debug\QuickSortAlgoritması.exe
+c:\users\user\documents\visual studio 2012\Projects\QuickSortAlgoritması\QuickSortAlgoritması\bin\Debug\QuickSortAlgoritması.pdb
+c:\users\user\documents\visual studio 2012\Projects\QuickSortAlgoritması\QuickSortAlgoritması\obj\Debug\QuickSortAlgoritması.exe
+c:\users\user\documents\visual studio 2012\Projects\QuickSortAlgoritması\QuickSortAlgoritması\obj\Debug\QuickSortAlgoritması.pdb
